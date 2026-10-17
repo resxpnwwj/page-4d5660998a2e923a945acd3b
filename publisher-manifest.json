@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c5edb3d729ccf0d53e286896",
+  "owner": "resxpnwwj",
+  "repo": "page-4d5660998a2e923a945acd3b",
+  "title": "LINKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4d5660998a2e923a945acd3b",
+      "a": "LINKI",
+      "b": "",
+      "entity": "LINKI",
+      "brand": "LINKI",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f3b748251901331943f31ae66791cfaeed6c03e2d371c0dfe09b8bca5726149d",
+      "content": {
+        "keyword1": "LINKI",
+        "keyword2": "",
+        "primary_entity": "LINKI",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "LINKI。少形容词。流量、设备、年付，三条看完再选。",
+          "AI_DESCRIPTION": "LINKI。少形容词。流量、设备、年付，三条看完再选。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#241610;color:#F3E6DC;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.7;font-size:16px}\na{color:#8EE8D0;text-decoration:none}\na:hover{text-decoration:underline}\nmain{overflow-x:hidden}\n.rail{max-width:640px;margin:0 auto 0 11vw;padding:0 0 4rem}\n.hero{padding:3.2rem 0 4.5rem}\n.kicker{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#8EE8D0;margin-bottom:1.1rem}\n.anchors{display:flex;flex-wrap:wrap;gap:.45rem;margin:0 0 2.1rem}\n.anchors a{display:inline-block;border:1px solid #8EE8D0;color:#8EE8D0;border-radius:999px;padding:.22rem .78rem;font-size:12px;letter-spacing:.06em;text-decoration:none}\n.anchors a:hover{background:#8EE8D0;color:#241610;text-decoration:none}\n.hero h1{font-family:Georgia,\"Songti SC\",\"SimSun\",serif;font-size:3.35rem;font-weight:700;letter-spacing:.04em;line-height:1.05;color:#FAF6F2;margin:0 0 .75rem;text-align:left}\n.dek{font-size:1.12rem;color:#C4B0A4;margin-bottom:1.8rem}\n.hero p{font-family:Georgia,\"Songti SC\",\"SimSun\",serif;font-size:1.08rem;line-height:1.92;color:#F3E6DC;margin-bottom:1.05rem}\n.hero p.lead{font-size:1.22rem;color:#FAF6F2}\nblockquote{margin:1.8rem 0 1.8rem;padding:1.1rem 0 1.1rem 1.25rem;border-left:3px solid #8EE8D0;color:#8EE8D0;font-family:Georgia,\"Songti SC\",\"SimSun\",serif;font-size:1.35rem;line-height:1.55}\n.sign{color:#C4B0A4;font-size:.92rem;margin-top:1.6rem}\nh2{font-family:Georgia,\"Songti SC\",\"SimSun\",serif;font-size:1.7rem;font-weight:700;color:#FAF6F2;margin:0 0 .85rem;letter-spacing:.02em}\n.sec{padding:0 0 3.4rem}\n.sec .note{color:#C4B0A4;margin-bottom:1.4rem;font-size:.98rem}\n.card{background:#FAF6F2;color:#2A1A12;border-radius:28px;box-shadow:0 18px 42px rgba(0,0,0,.32);padding:1.85rem 1.7rem 1.7rem;margin:0 0 1.25rem}\n.card h3{font-size:1.45rem;margin:0 0 .35rem;letter-spacing:.04em}\n.price{font-family:Georgia,\"Songti SC\",serif;font-size:2rem;color:#3D8F7C;line-height:1.2;margin:.2rem 0 .15rem}\n.annual{font-size:.92rem;color:#5C4033;margin-bottom:.9rem}\n.card ul{list-style:none;margin:.4rem 0 0}\n.card li{padding:.42rem 0;border-bottom:1px solid rgba(44,24,16,.08);font-size:.98rem}\n.card li:last-child{border-bottom:0}\n.mark{display:inline-block;background:#8EE8D0;color:#241610;font-size:11px;letter-spacing:.08em;border-radius:999px;padding:.18rem .6rem;margin-bottom:.55rem}\n.card.feat{background:#2A1A12;color:#FAF6F2;box-shadow:0 22px 50px rgba(0,0,0,.45)}\n.card.feat .price{color:#8EE8D0}\n.card.feat .annual{color:#C4B0A4}\n.card.feat li{border-bottom-color:rgba(142,232,208,.12)}\nol.steps{list-style:none;counter-reset:st}\nol.steps li{counter-increment:st;background:#FAF6F2;color:#2A1A12;border-radius:28px;box-shadow:0 14px 34px rgba(0,0,0,.28);padding:1.25rem 1.35rem 1.25rem 4.4rem;margin:0 0 1rem;position:relative;min-height:4.6rem}\nol.steps li::before{content:counter(st);position:absolute;left:1.15rem;top:1.15rem;width:2.1rem;height:2.1rem;border-radius:50%;background:#8EE8D0;color:#241610;font-weight:700;display:flex;align-items:center;justify-content:center;font-family:Georgia,serif}\nol.steps strong{display:block;margin-bottom:.2rem;font-size:1.02rem}\n.client-box{background:#FAF6F2;color:#2A1A12;border-radius:28px;box-shadow:0 18px 42px rgba(0,0,0,.32);padding:1.8rem 1.7rem}\n.client-box p{margin-bottom:.75rem}\n.client-box p:last-child{margin-bottom:0}\ndetails{background:#FAF6F2;color:#2A1A12;border-radius:28px;box-shadow:0 14px 34px rgba(0,0,0,.28);padding:1rem 1.25rem;margin:0 0 .9rem}\nsummary{cursor:pointer;font-weight:650;list-style:none;padding:.35rem 0 .35rem 1.6rem;position:relative}\nsummary::-webkit-details-marker{display:none}\nsummary::before{content:\"+\";position:absolute;left:0;top:.28rem;color:#3D8F7C;font-weight:700;font-size:1.1rem}\ndetails[open] summary::before{content:\"–\"}\ndetails p{padding:.15rem 0 .45rem 1.6rem;color:#4E342E;font-size:.96rem}\n.foot{border-top:1px solid rgba(142,232,208,.18);padding:1.4rem 0 2.5rem;color:#C4B0A4;font-size:.86rem}\n@media (max-width:860px){\n.rail{margin:0 auto;padding:0 1.2rem 3rem}\n.hero{padding:2rem 0 3rem}\n.hero h1{font-size:2.35rem}\nblockquote{font-size:1.15rem}\n.card,.client-box{padding:1.4rem 1.2rem;border-radius:22px}\nol.steps li{border-radius:22px}\n}\n</style><main>\n<div class=\"rail\">\n<article class=\"hero\" id=\"top\">\n<p class=\"kicker\">编读手记 · 通路与用量</p>\n<nav class=\"anchors\">\n<a href=\"#plans\">套餐</a>\n<a href=\"#guide\">使用</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<h1>LINKI</h1>\n<p class=\"dek\">把连接写成算术。把算术写成短句。</p>\n<p class=\"lead\">连接是消耗。打开，关掉，再打开。很少有人停下来看计价。</p>\n<p>流量有封顶。设备有上限。年付只是把十二个月收成十个月的账。</p>\n<p>LINKI 不把条目藏进脚注。你先读用量。再决定停在哪一档。</p>\n<blockquote>选套餐不是站队。是对照自己的数字。</blockquote>\n<p>基础版给轻量日子。一百 GB。三台设备。</p>\n<p>旗舰版把额度抬到三百。设备到五。多数日常会停在这里。</p>\n<p>团队版面向更多终端。一千 GB。二十台。需要定制路由，再单独谈。</p>\n<p>下载地址目前没有可核验来源。本页不放安装包。配置以开通后的说明为准。</p>\n<p class=\"sign\">往下是三档原文。读完再动。</p>\n</article>\n\n<section class=\"sec\" id=\"plans\">\n<h2>三档用量</h2>\n<p class=\"note\">单列对照。先看流量，再看设备。年付写在各卡底部。</p>\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"annual\">按年付：¥150 / 年</p>\n<ul>\n<li>每月计入 100GB 可用流量</li>\n<li>同时在线 3 台设备</li>\n<li>覆盖常见流媒体的基础访问</li>\n<li>走常规线路资源</li>\n</ul>\n</article>\n<article class=\"card feat\">\n<p class=\"mark\">多数人停在这一档</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"annual\">按年付：¥350 / 年</p>\n<ul>\n<li>每月计入 300GB 可用流量</li>\n<li>同时在线 5 台设备</li>\n<li>流媒体访问条目更全</li>\n<li>含面向游戏场景的线路整理</li>\n<li>工单按优先队列处理</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"annual\">按年付：¥850 / 年</p>\n<ul>\n<li>每月计入 1000GB 可用流量</li>\n<li>同时在线 20 台设备</li>\n<li>提供更高带宽的线路分组</li>\n<li>接受企业侧路由定制沟通</li>\n<li>配备固定对接人</li>\n</ul>\n</article>\n</section>\n\n<section class=\"sec\" id=\"guide\">\n<h2>使用说明</h2>\n<p class=\"note\">四步。不绕。</p>\n<ol class=\"steps\">\n<li><strong>对照三档</strong>只问两件事。流量够不够。设备数够不够。</li>\n<li><strong>选月或年</strong>月付看单价。年付看各卡底部的合计。</li>\n<li><strong>按说明配置</strong>开通后会给出配置步骤。本页不代替那份说明。</li>\n<li><strong>盯额度</strong>接近封顶就改档，或等下一周期。不要赌余量。</li>\n</ol>\n</section>\n\n<section class=\"sec\" id=\"clients\">\n<h2>客户端</h2>\n<div class=\"client-box\">\n<p>目前没有可核验的官方安装包地址。因此不放置下载链接。</p>\n<p>Windows、macOS、iOS、Android、路由器——具体能否使用，以开通后的说明为准。此处不列举兼容清单。</p>\n<p>配置入口、订阅格式、更新渠道，均未在可核验材料中公布。请等待后续说明，不要从不明来源取包。</p>\n<p>需要回到套餐对照，见 <a href=\"#plans\">三档用量</a>。</p>\n</div>\n</section>\n\n<section class=\"sec\" id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"note\">点开一条。读完再点下一条。</p>\n<details>\n<summary>三档到底差在哪？</summary>\n<p>差在流量封顶和同时在线设备数。基础版 100GB、三台。旗舰版 300GB、五台。团队版 1000GB、二十台。其余条目按档递增。不要用形容词比较，用数字比较。</p>\n</details>\n<details>\n<summary>年付怎么算？</summary>\n<p>基础版年付 ¥150。旗舰版年付 ¥350。团队版年付 ¥850。相当于按十个月的月价计十二个月。页上数字即报价，不含未写明的附加费。</p>\n</details>\n<details>\n<summary>设备数指什么？</summary>\n<p>指同一时刻保持在线的终端数量。基础版三台。旗舰版五台。团队版二十台。换机可以。同时在线不要超档。</p>\n</details>\n<details>\n<summary>流量用完怎么办？</summary>\n<p>额度按自然月计入。用尽后需等待下一周期，或改到更高一档。具体截止规则以开通时的说明为准。本页不承诺额外赠送。</p>\n</details>\n<details>\n<summary>从哪里下载客户端？</summary>\n<p>没有可核验的下载地址。本页链接不为安装包。不要向陌生人索取所谓安装文件。等开通后的说明。</p>\n</details>\n</section>\n\n<p class=\"foot\">LINKI。套餐与说明以本页所写为准。未写的身份、节点、评价、日志与退款，一概不构成承诺。</p>\n</div>\n</main>",
+          "hash": "4cbb6329e39a8cfcc2e3e0d53471f901ded8158862bd63ebc9afcb8786fdc2a1",
+          "seo": {
+            "title": "LINKI｜用量写在明处",
+            "keywords": "LINKI,流量套餐,基础版,旗舰版,团队版,年付,多设备,使用说明",
+            "description": "LINKI。少形容词。流量、设备、年付，三条看完再选。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "9308",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dynep.cn",
+    "host": "p-19f93bd197.dynep.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8d38d852c5ff863c4a25aaba74d516074fbfa05483df94106010420d85f81839",
+    "sitemap.xml": "43c42e91199eedce12a77f3c97a1f1620856aac2a77ad987097d7b8ee988b4a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "35115d0f50fe9b9641f437e0dc87472913cde178883054a63c1727e136135910",
+    "robots.txt": "2303ccec42d4eee8616ba04beb693925579f44fead0bf80a1a5422e2fe76fed5",
+    "b30f35491eb87fe67ba2c4c658e181bc.txt": "e0aa5c7fc74ede557b83fcdf14dd6e8ecf2104e232b58bba56fcfd55e1ab8ae2"
+  },
+  "revision": "fa98de2153f844fc3c0cdc06420ee0f32913d94d883fb950ffe9e4052fd8c19d"
+}
